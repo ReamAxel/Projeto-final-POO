@@ -1,3 +1,8 @@
+Este repositório contém o código-fonte para o projeto final de Programação Orientada a Objetos (POO) focado em um sistema de reserva de hotéis.
+Alunos participantes: João Pedro, Rafael Nunes e Kamila Braga
+
+diagrama de classe:
+
 ![image](https://github.com/user-attachments/assets/821ed654-727e-4438-b1d5-b427a9c3eb50)
 
 ![image](https://github.com/user-attachments/assets/9a462d89-b447-40f9-8cd1-012c1b9e6b01)
